@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>icons/icons.qrc</file>
+        <file>icons/weather_cloudy.svg</file>
+        <file>icons/weather_few_clouds.svg</file>
+        <file>icons/weather_mist.svg</file>
+        <file>icons/weather_rain.svg</file>
+        <file>icons/weather_shower_rain.svg</file>
+        <file>icons/weather_snow.svg</file>
+        <file>icons/weather_sunny.svg</file>
+        <file>icons/weather_thunderstorm.svg</file>
+        <file>icons/wind_deg.svg</file>
+        <file>icons/back.svg</file>
+    </qresource>
+</RCC>

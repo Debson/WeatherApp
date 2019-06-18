@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>weather_few_clouds.svg</file>
+        <file>weather_fog.svg</file>
+        <file>weather_haze.svg</file>
+        <file>weather_hot.svg</file>
+        <file>weather_humidity.svg</file>
+        <file>weather_overcast.svg</file>
+        <file>weather_showers.svg</file>
+        <file>weather_sleet.svg</file>
+        <file>weather_snow.svg</file>
+        <file>weather_storm.svg</file>
+        <file>weather_sunny.svg</file>
+        <file>weather_sunny_few_clouds.svg</file>
+        <file>weather_thermometer.svg</file>
+        <file>weather_thundershower.svg</file>
+        <file>wind_deg.svg</file>
+        <file>back.svg</file>
+    </qresource>
+</RCC>
